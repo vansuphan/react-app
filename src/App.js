@@ -7,7 +7,7 @@ class App extends Component{
   constructor(){
     super();
     this.TodoItems=[
-      {title:'name 1', dichoixong:true},
+      {title:'Phan Van Su', dichoixong:true},
       {title:'name 1', dichoixong:false},
       {title:'name 1', dichoixong:false}
     ];
